@@ -57,3 +57,6 @@ rsconnect/
 # All rendered HTML
 *.html
 *.pptx
+
+# Deployment files
+.posit/
