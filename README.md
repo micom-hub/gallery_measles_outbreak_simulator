@@ -17,8 +17,7 @@ Second, install R necessary R libraries by running the following code in [Rstudi
 ```r
 install.packages(c(
   "shiny","bslib","shinyWidgets","shinyFeedback","shinyjs","here","tidyverse",
-  "glue","scales","slider","roxygen2","readxl","adaptivetau","future",
-  "parallelly","furrr"
+  "glue","scales","slider","roxygen2","readxl","adaptivetau"
 ))
 ```
 
@@ -26,4 +25,4 @@ install.packages(c(
 
 Open [app/app.R](app/app.R) in the [RStudio source pane](https://docs.posit.co/ide/user/ide/guide/ui/ui-panes.html), then click the "Run App" button in the top right of this pane.
 
-For more detailed instructions, see [Section 1.3 of the *Mastering Shiny* ebook](https://mastering-shiny.org/basic-app.html#running).
+For more detailed instructions on running an R Shiny app locally, see [Section 1.3 of the *Mastering Shiny* ebook](https://mastering-shiny.org/basic-app.html#running).
