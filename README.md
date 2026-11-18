@@ -1,7 +1,6 @@
 # Simulating measles outbreak outcomes in educational facilities
 
-[Link to GitHub repo](https://github.com/micom-hub/gallery_measles_outbreak_simulator) (contact "micom-misupport -at- umich -dot- edu" for access)
-Authored by Jack Jacobs, Stephanie Iorga, MI-Support, [MICOM](https://www.micom-insight.net/)
+Authored by Jack Jacobs, Stephanie Iorga, [MI-Support](https://micom-hub.org/mi_support.html), [MICOM](https://www.micom-insight.net/)
 
 This repository contains code that allows users to run a local R Shiny app that is intended to facilitate conversations about measles risk management between local health department officials and educational facility administrators. It was developed primarily between July 2025 and January 2026.
 
